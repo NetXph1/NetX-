@@ -1,0 +1,18 @@
+[
+  {
+    "image_url": "https://example.com/image1.jpg",
+    "text": "Item 1",
+    "details": "Details of Item 1"
+  },
+  {
+    "image_url": "https://example.com/image2.jpg",
+    "text": "Item 2",
+    "details": "Details of Item 2"
+  },
+  {
+    "image_url": "https://example.com/image3.jpg",
+    "text": "Item 3",
+    "details": "Details of Item 3"
+  },
+  ...
+]
