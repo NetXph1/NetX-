@@ -1,18 +1,17 @@
 [
   {
-    "image_url": "https://example.com/image1.jpg",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR1IPdqYerBBz6ps1Kg55RDBpyxoPXApHjGQ&usqp=CAU",
     "text": "Item 1",
     "details": "Details of Item 1"
   },
   {
-    "image_url": "https://example.com/image2.jpg",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR1IPdqYerBBz6ps1Kg55RDBpyxoPXApHjGQ&usqp=CAU",
     "text": "Item 2",
     "details": "Details of Item 2"
   },
   {
-    "image_url": "https://example.com/image3.jpg",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR1IPdqYerBBz6ps1Kg55RDBpyxoPXApHjGQ&usqp=CAU",
     "text": "Item 3",
     "details": "Details of Item 3"
-  },
-  ...
+  }
 ]
